@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chandansripahi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chandansripahi&count_private=true&show_icons=true&include_all_commits=true)]([https://github.com/anuraghazra](https://github.com/chandansripathi/github-readme-stats)
 
 </div>
 
