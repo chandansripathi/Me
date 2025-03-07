@@ -1,11 +1,23 @@
 <div align="center">
-  
-
+  <img src="https://chandansripathi.com/content/CS-Logo-3000x3000-White.png" alt="Chandan Sripathi Logo" width="150">
+  <h2> Chandan Sripathi
+    </h2>
 </div>
 
+<br>
+
 <p align="center">
+  <a style="text-decoration:none" href="https://chandansripathi.com">
+    <img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Firefox&logoColor=white" />
+  </a>
   <a style="text-decoration:none" href="mailto:dev@chandansripathi.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Email-333333?style=flat-square&logo=maildotru&logoColor=white" />
+  </a>
+  <a style="text-decoration:none" href="https://www.deviantart.com/chandansripathi">
+    <img src="https://img.shields.io/badge/-DeviantArt-05CC47?style=flat-square&logo=DeviantArt&logoColor=white" />
+  </a>
+  <a style="text-decoration:none" href="https://www.instagram.com/chandan_sripathi">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
   <a style="text-decoration:none" href="https://t.me/chandansripathi">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram" />
@@ -15,6 +27,26 @@
   </a>
 </p>
 
+<br>
+
 <p align="center">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
