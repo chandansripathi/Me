@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://chandansripathi.com/content/CS-Logo-3000x3000-White.png" alt="Chandan Sripathi Logo" width="150">
-  <h2> Chandan Sripathi
-    </h2>
+  <h1> Chandan Sripathi
+    </h1>
 </div>
 
 <br>
