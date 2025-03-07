@@ -2,7 +2,6 @@
   <img src="https://chandansripathi.com/content/CS-Logo-3000x3000-White.png" alt="Chandan Sripathi Logo" width="150">
   <h1> Chandan Sripathi
     </h1>
-  <br><br>
 </div>
 
 <br><br>
